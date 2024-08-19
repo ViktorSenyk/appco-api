@@ -1,4 +1,4 @@
-import users from "../../data/users";
+import users from '../../../data/users';
 
 export default (req, res) => {
   const { page = 1, rowsPerPage = 16 } = req.query;

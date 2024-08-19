@@ -1,9 +1,7 @@
 import Head from "next/head";
 
-export default function Home() {
-  return (
-    <Head>
-      <title>Test API</title>
-    </Head>
-  );
-}
+export default () => (
+  <Head>
+    <title>API</title>
+  </Head>
+);
