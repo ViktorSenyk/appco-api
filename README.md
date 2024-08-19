@@ -1,9 +1,9 @@
 # Project: AppCo API
 
+### API urls:
 
-### API url:
-
-- https://appco-snowy.vercel.app/api/
+- https://appco-snowy.vercel.app/api/users
+- https://appco-snowy.vercel.app/api/users/statistics
 
 ### The tech stack is:
 
