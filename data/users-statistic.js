@@ -11936,3 +11936,6 @@ const usersStatistic = [
   { user_id: 682, date: "2019-10-23", page_views: 362, clicks: 195 },
   { user_id: 683, date: "2019-10-23", page_views: 271, clicks: 20 },
 ];
+
+
+export default usersStatistic;
